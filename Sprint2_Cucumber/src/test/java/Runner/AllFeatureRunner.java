@@ -10,6 +10,6 @@ import io.cucumber.testng.CucumberOptions;
 				"junit:Reports/JUnitreport.junit"}
 		)
 
-public class AllRunner extends AbstractTestNGCucumberTests{
+public class AllFeatureRunner extends AbstractTestNGCucumberTests{
 
 }
